@@ -12,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/62915328/189786335-08efb627-2476-493f-8530-bb6aa75ef2ab.png)
 
 3. Diagrama Proceso ***Sugerencias de productos***
+![image](https://user-images.githubusercontent.com/62915328/189789093-4640e7bd-0ac1-4bc1-af64-ccd6b2c087df.png)
 
 4. Diagrama Proceso ***Pago en línea de productos***
 
