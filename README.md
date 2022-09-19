@@ -22,14 +22,14 @@
 ![image](https://user-images.githubusercontent.com/62915328/190879607-77180813-0649-4ae9-ace5-ace42e610f1e.png)
 
 5. Diagrama Proceso ***Despacho de pedido***
-![Despacho de pedido](https://user-images.githubusercontent.com/32281973/190935646-f35cc093-60dd-4e0f-9536-3e66c6778527.png)
+![image](https://user-images.githubusercontent.com/32281973/190935646-f35cc093-60dd-4e0f-9536-3e66c6778527.png)
 
 6. Diagrama Proceso ***Recepción de pedido***
-![Recepción del pedido](https://user-images.githubusercontent.com/32281973/190935661-1ccaeceb-eb8b-4d94-bc62-e6ffcb5db01a.png)
+![Image](https://user-images.githubusercontent.com/32281973/190935661-1ccaeceb-eb8b-4d94-bc62-e6ffcb5db01a.png)
 
 7. Diagrama Proceso ***Encuesta de satisfacción***
-![Encuesta de satisfacción](https://user-images.githubusercontent.com/32281973/190935670-07fcad8d-8fcd-4f91-8929-79a14d26ab68.png)
+![Image](https://user-images.githubusercontent.com/32281973/190935670-07fcad8d-8fcd-4f91-8929-79a14d26ab68.png)
 
 8. Diagrama Proceso ***Devoluciones***
-![Devolución](https://user-images.githubusercontent.com/32281973/190935687-7336f2e8-bcc3-46ab-83bd-5a56f6017cde.png)
+![Image](https://user-images.githubusercontent.com/32281973/190935687-7336f2e8-bcc3-46ab-83bd-5a56f6017cde.png)
 
