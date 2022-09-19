@@ -28,7 +28,7 @@
 ![Image](https://user-images.githubusercontent.com/32281973/190935661-1ccaeceb-eb8b-4d94-bc62-e6ffcb5db01a.png)
 
 7. Diagrama Proceso ***Encuesta de satisfacción***
-![Image](https://user-images.githubusercontent.com/32281973/190935670-07fcad8d-8fcd-4f91-8929-79a14d26ab68.png)
+![Image](https://user-images.githubusercontent.com/32281973/190936159-1d98ed52-0816-408d-8957-e007f2aa4531.png)
 
 8. Diagrama Proceso ***Devoluciones***
 ![Image](https://user-images.githubusercontent.com/32281973/190935687-7336f2e8-bcc3-46ab-83bd-5a56f6017cde.png)
